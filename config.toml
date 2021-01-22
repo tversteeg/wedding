@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "ha-thomas-y.eu"
+base_url = "https://ha-thomas-y.eu"
 
 # The site title and description; used in feeds by default.
 title = "Wedding 2021"
@@ -12,7 +12,7 @@ default_language = "en"
 theme = "Zulma"
 
 # When set to "true", a feed is automatically generated.
-generate_feed = false
+generate_feed = true
 
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
