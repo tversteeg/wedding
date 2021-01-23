@@ -39,7 +39,6 @@ generate_feed = true
 #     ]
 #
 taxonomies = [
-	{name = "categories"},
 	{name = "tags", paginate_by = 5, rss = true},
 	{name = "authors", rss = true},
 ]
@@ -158,11 +157,11 @@ include_content = true
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
-zulma_title = "Wedding 2021"
+zulma_title = "Wedding Ha & Thomas"
 zulma_theme = "lux"
 
 zulma_menu = [
-    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/schedule", name = "Schedule"},
     {url = "$BASE_URL/tags", name = "Tags"},
 ]
 
