@@ -4,7 +4,7 @@ title = "Getting There"
 date = 2021-01-23
 
 [taxonomies]
-tags = ["wedding", "flight"]
+tags = ["wedding", "flight", "travel", "tips"]
 +++
 
 We recommend booking the plane 6 months in advance to get a good deal.
