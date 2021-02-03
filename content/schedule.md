@@ -3,15 +3,18 @@ title = "Schedule"
 date = 2021-01-23
 
 [taxonomies]
-tags = ["schedule", "wedding"]
+tags = ["schedule"]
 +++
 
 ## 16 January
 
 #### Traditional Vietnamese Ceremony
 
-In the early morning we will hold a Vietnamese tea ceremony at Ha's parents house.
+![](/mamqu.png)
 
+In the early morning we will hold a [traditional Vietnamese tea ceremony](https://vietnamtravel.com/traditional-vietnamese-tea-ceremony/) at Ha's parents house. It usually takes place at 9 AM and ends before lunch time.
+
+![](/bungqu.jpg)
 #### Lunch
 
 After the ceremony there will be some time to relax and eat something small.

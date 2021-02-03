@@ -2,7 +2,7 @@
 base_url = "https://ha-thomas-y.eu"
 
 # The site title and description; used in feeds by default.
-title = "Wedding Ha & Thomas"
+title = "Ha, Thomas, Yêu 🇻🇳"
 description = ""
 
 # The default language; used in feeds.
@@ -157,7 +157,7 @@ include_content = true
 # author value will be available using {{ config.extra.author }} in templates
 #
 [extra]
-zulma_title = "Wedding Ha & Thomas"
+zulma_title = "Ha, Thomas, Yêu"
 zulma_theme = "lux"
 
 zulma_menu = [
