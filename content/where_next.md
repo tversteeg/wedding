@@ -1,5 +1,5 @@
 +++
-title = "Where To Next?"
+title = "🌏 Where To Next"
 date = 2021-01-24
 
 [taxonomies]

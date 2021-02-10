@@ -1,5 +1,5 @@
 +++
-title = "Tips"
+title = "💁‍♀️ Tips"
 date = 2021-01-25
 
 [taxonomies]

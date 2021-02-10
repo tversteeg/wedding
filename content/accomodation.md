@@ -1,5 +1,5 @@
 +++
-title = "Accomodation"
+title = "🏩 Accomodation"
 date = 2021-01-23
 
 [taxonomies]
@@ -16,3 +16,5 @@ If you want this please supply us with the follownig information:
 
 We do recommend staying in this hotel though, or somewhere close, since it will be easier for us to organize things with the whole group.
 At least for the wedding days.
+
+We are still looking for the hotel, we will update this page when we find one meeting all our requirements.

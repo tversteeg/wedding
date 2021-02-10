@@ -1,7 +1,6 @@
-
 +++
-title = "Getting There"
-date = 2021-01-23
+title = "✈️ Getting There"
+date = 2021-02-10
 
 [taxonomies]
 tags = ["wedding", "flight", "travel", "tips"]
@@ -9,13 +8,28 @@ tags = ["wedding", "flight", "travel", "tips"]
 
 ### Visa
 
-There's two ways to get a visa for Vietnam, e-visa on arrival and a regular visa.
+There are a couple of ways to get a visa for Vietnam.
 
 #### E-Visa
 
-You can apply for an e-visa on [this Vietnamese government site](https://evisa.xuatnhapcanh.gov.vn/en_US/web/guest/khai-thi-thuc-dien-tu/cap-thi-thuc-dien-tu). You will have to pay 25 dollars in advance. You will also have to pay dollars when you arrive in Vietnam, which isn't mentioned on the website. It's not possible to use an ATM behind the border where you need to pay the dollars, so bring at least $50 if you want to go for this visa.
+You can apply for an e-visa on [this Vietnamese government site](https://evisa.xuatnhapcanh.gov.vn/tra-cuu-thi-thuc).
+It takes a couple of working days and you will have to pay 25 dollars in advance.
 
-Don't forget to double check all information on the application, otherwise you're visa will be refused at the check-in, meaning you'll have a couple of minutes to hastily book a very expensive last-minute visa. This will create a lot of stress, not recommended.
+Don't forget to double- or even triple-check all information on the application.
+The Vietnamese government doesn't check the data you enter.
+If you swap your passport number with your national identification number as I did for example you're visa will be refused at the check-in.
+Doing this will give you a couple of minutes, if you're lucky, to hastily book a very expensive last-minute visa.
+This will create a lot of stress, not recommended.
+
+It's not necessary but also highly recommended to print the e-visa.
+
+#### Embassy
+
+Another, more expensive, option is to apply for a visa at the Vietnamese embassy. In the Netherlands it's located in Den Haag and in Belgium in Brussels. This costs 77 dollars and you have to physically go there.
+
+#### Third-Party Service
+
+Another, also more expensive, option is to use a third-party service to get your visa. In the Netherlands the ANWB can be used for example.
 
 ### Plane
 
@@ -29,3 +43,10 @@ The airlines you should avoid are "Swiss Airlines" and "Edelweiss" because the p
 Websites to compare and book tickets:
 
 - [https://www.momondo.nl](momondo.nl)
+
+### Airport in Vietnam
+
+
+It's highly recommended to bring at least 25 dollars or equivalent in Vietnamese Dong to the Vietnamese airport, just in case.
+Something might go "wrong" and you might have to "pay" an official.
+It's not possible to use an ATM there and they don't accept euros.
