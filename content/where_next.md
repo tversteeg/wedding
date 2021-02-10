@@ -1,6 +1,6 @@
 +++
 title = "🌏 Where To Next"
-date = 2021-01-24
+date = 2021-02-10
 
 [taxonomies]
 tags = ["travel", "tips"]
@@ -112,27 +112,66 @@ From Sa Pa, you can rent a scooter or go with the bus to Y Tý.
 
 ## Mekong Delta Area
 
-![](/camau.jpg)
 ### Cà Mau
+
+![](/camau.jpg)
 
 You should definitely not skip the floating market on the Mekong river if you come visiting Cà Mau. There are other famous floating markets (Cái Bè/ Cái Răng) in Cần Thơ. However, we do think that it would save you a lot of traveling time if you go to the floating market and the  mangrove forest in the same city.
 
 ## Main Cities & More
 
-### Sài Gòn
+### Sài Gòn/ Hà Nội
 
-### Huế
+Big cities are just big cities. You won't find any interesting nature here but in return, as we mentioned above, you can find several affordable luxuries in Sài Gòn and/or Hà Nộ since they are the two largest cities in Vietnam. Besides, food is what you have to try when visit these cities. Here is the list what Hà thinks that you should definitely try at least once:
+- Cơm tấm
+- Bánh tráng trộn/ bánh tráng cuốn
+- Bánh xèo
+- Bún măng vịt
+- Bột chiên
+- Bánh cuốn SG
+- Bánh canh
+- Hủ tíu khô 
+- Phở cuốn
+- Xôi
+- Bún ngan
+- Bún ốc
+- Cháo trai/ cháo sườn
+- Bánh cuốn HN
 
-### Đà Nẵng/ Hội An
 
-### Hà Nội
+### Huế/ Đà Nẵng/ Hội An
+
+![](/cauvang.jpg)
+
+According to Wikipedia, Bà Nà Hills, located in Đà Nẵng, is advertised as "the Đà Lạt of Đà Nẵng province". Of course, it was founded by the French colonists to be a leisure destination for (French) tourists. If it is the Đà Lạt, what is the reasons to visit, you wondered. Yes yes, here you have beaches and BRIDGES. We don't really understand why people go crazy for bridges so much. But, since the bridges here got recommended in several travel articles, we have to introduce them to you.
+
+- Distance: 960km away from Sài Gòn
+
+![](/hoian.jpg)
+
+And, because you are already in Đà Nẵng, it's a pity if you don't visit Hội An. As it stated [here](https://en.wikipedia.org/wiki/H%E1%BB%99i_An), Hội An is an exceptionally well-preserved example of a Southeast Asian trading port from 15th to 19th century. Every lunar month (yup, not western calendar), on the 14th, the lantern festival will take place in this town.
+
+-Distance: 937km away from Sài Gòn 
+
+![](/hue.jpg)
+
+Huế used to be the capital of the country. During the French Indochina, it was the administrative capital of the protectorate of Annam. If you are into good food and history, this is the place where you should visit.
+
+- Distance: 1043km away from Sài Gòn
+
+###### Getting There
+
+We recommend you to take the train to Đà Nẵng, stay there overnight, rent a scooter or take a cab to Hội An, chill a bit, and go back to Đà Nẵng at the end of the day, and then take the train to Huế. If you have tight schedule, take the flight directly to Đà Nẵng. There is also an international airport in Đà Nẵng. You can also fly to/from Đà Nẵng to/from Amsterdam.
+
 
 ### Phnom Penh, Cambodia
 
 ![](/phnom-penh.png)
 
-[Phnom Penh](https://wikitravel.org/en/Phnom_Penh) is the capital and largest city of Cambodia.
+[Phnom Penh](https://wikitravel.org/en/Phnom_Penh) is the capital and largest city of Cambodia. Phnom Penh is really close to Saigon. It's a good option if you want to make a tour around the Southern area Vietnam and other Southeast Asian countries.
 
-- Distance: 250 km
+- Distance: 250 km away from Saigon.
 
 
+We believe that this list gives enough information and inspiration for you to plan the trip to Vietnam. If you have any questions, ask Google! ^_^
+ 
