@@ -166,5 +166,3 @@ zulma_menu = [
 ]
 
 zulma_brand = {image = "$BASE_URL/banner.png", text = "Home"}
-
-zulma_allow_theme_selection = true
