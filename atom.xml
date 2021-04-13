@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Hà, Thomas, Yêu 🇻🇳</title>
+	<link href="https://ha-thomas-y.eu/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ha-thomas-y.eu"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-04-13T00:00:00+00:00</updated>
+	<id>https://ha-thomas-y.eu/atom.xml</id>
+	<entry xml:lang="en">
+		<title>😷 Corona</title>
+		<published>2021-04-13T00:00:00+00:00</published>
+		<updated>2021-04-13T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/corona/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/corona/</id>
+		<content type="html">&lt;p&gt;As you might have noticed, the world is experiencing a global pandemic.
+In addition to the uncertainty this brings in people their lives it also brings uncertainty in our schedule.&lt;&#x2F;p&gt;
+&lt;p&gt;We are still looking for ways that we can handle an extended lockdown period.&lt;&#x2F;p&gt;
+&lt;p&gt;Our advice is to book everything with the option to refund.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;update&quot;&gt;Update&lt;&#x2F;h2&gt;
+&lt;p&gt;There’s rumours going around that Vietnam will soon open it’s borders for tourists with a vaccin passport. Seeing how the Dutch government aims to vaccinate everyone by july it will be odd if we people won’t be able to fly to Vietnam for our wedding in januari.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🚞 Moving Around</title>
+		<published>2021-02-14T00:00:00+00:00</published>
+		<updated>2021-02-14T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/moving-around/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/moving-around/</id>
+		<content type="html">&lt;h2 id=&quot;between-cities&quot;&gt;Between Cities&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;sleeper-bus-cheap&quot;&gt;Sleeper Bus (Cheap)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;☆☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Minus one when tall&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;sleeperbus-cheap.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;sleeper-bus-expensive&quot;&gt;Sleeper Bus (“Expensive”)&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Worse when tall&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;sleeperbus.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;scooter-motorbike&quot;&gt;Scooter&#x2F;Motorbike&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Depends on the road&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;motorbike.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;train&quot;&gt;Train&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Not many options&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;train.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;airplane&quot;&gt;Airplane&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;☆☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$$$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;☆☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;:(&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;plane.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;hitchhiking&quot;&gt;Hitchhiking&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended (Vietnam)&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Recommended (China)&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Recommended (Taiwan)&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;Gratis&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance Per Day&lt;&#x2F;td&gt;&lt;td&gt;★☆☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Maximum Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Sights&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Because you are dependent on others’ driving skills, 5 stars otherwise&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;hitchhike.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;within-a-city&quot;&gt;Within A City&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;xe-om-grab-bike&quot;&gt;Xe ôm&#x2F;grab bike&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;xeom.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;taxi&quot;&gt;Taxi&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★★☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★☆☆☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;taxi.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;metro&quot;&gt;Metro&lt;&#x2F;h3&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;th&gt;&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Recommended&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;em&gt;Under construction in Saigon&lt;&#x2F;em&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Price&lt;&#x2F;td&gt;&lt;td&gt;$&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Comfort&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Distance&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Environmental Impact&lt;&#x2F;td&gt;&lt;td&gt;★★★★★&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Safety&lt;&#x2F;td&gt;&lt;td&gt;★★★★☆&lt;&#x2F;td&gt;&lt;td&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;metro.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>☎️ Contact</title>
+		<published>2021-02-10T00:00:00+00:00</published>
+		<updated>2021-02-10T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/contact/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/contact/</id>
+		<content type="html">&lt;p&gt;For any questions please send us an email: &lt;a href=&quot;mailto:wedding@versteeg.email&quot;&gt;wedding@versteeg.email&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;When we arrive in Vietnam we will put the phone number of our local SIM cards here. We recommend mailing us your Vietnamese phone number when you buy a SIM card in Vietnam (which you definitely should do) so we can also add it here so the other guests can contact you.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>📅 Schedule</title>
+		<published>2021-02-10T00:00:00+00:00</published>
+		<updated>2021-02-10T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/schedule/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/schedule/</id>
+		<content type="html">&lt;h2 id=&quot;16-january&quot;&gt;16 January&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;traditional-vietnamese-ceremony&quot;&gt;Traditional Vietnamese Ceremony&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;mamqu.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;In the early morning we will hold a &lt;a href=&quot;https:&#x2F;&#x2F;vietnamtravel.com&#x2F;traditional-vietnamese-tea-ceremony&#x2F;&quot;&gt;traditional Vietnamese tea ceremony&lt;&#x2F;a&gt; at Ha’s parents house. It usually takes place at 9 AM and ends before lunch time.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;bungqu.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;lunch&quot;&gt;Lunch&lt;&#x2F;h4&gt;
+&lt;p&gt;After the ceremony there will be some time to relax and eat something small.
+We will look for a place with AC to chill so everyone doesn’t have to suffer Saigon’s deadly heat.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;reception&quot;&gt;Reception&lt;&#x2F;h4&gt;
+&lt;p&gt;We will hold a reception in the afternoon. The whole ceremony will occur from probably 5 PM to 9 PM. The first hour is for welcome drinks and finger food. In a traditional Vietnamese wedding that Ha vividly remembers, people usually start having the first course at 6:30 PM and finish the last course at 9 PM. There are normally at least five courses, including two appetizers, one main course, a hotpot, and dessert. How many courses will there be at our wedding? It still needs to be discussed.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;after-party&quot;&gt;After Party&lt;&#x2F;h4&gt;
+&lt;p&gt;Yes yes, it’s the time for everyone to get drunk (except the bride). Which type of bar are you into? A chill bar with slow music to talk? A rooftop bar with EDM music? Send us your preference along with your RSVP. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;17-january&quot;&gt;17 January&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;streetfood-tour&quot;&gt;Streetfood Tour&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;streetfood.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Say what now? A food tour right after the “going wild” night? Nja, you are on vacation! No work is going to stop you!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;18-january&quot;&gt;18 January&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;saigon-scary-scooter-tour&quot;&gt;Saigon Scary Scooter Tour&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;scaryscooter.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;TBD.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>✈️ Getting There</title>
+		<published>2021-02-10T00:00:00+00:00</published>
+		<updated>2021-02-10T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/transportation/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/transportation/</id>
+		<content type="html">&lt;h3 id=&quot;visa&quot;&gt;Visa&lt;&#x2F;h3&gt;
+&lt;p&gt;There are a couple of ways to get a visa for Vietnam.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;e-visa&quot;&gt;E-Visa&lt;&#x2F;h4&gt;
+&lt;p&gt;You can apply for an e-visa on &lt;a href=&quot;https:&#x2F;&#x2F;evisa.xuatnhapcanh.gov.vn&#x2F;tra-cuu-thi-thuc&quot;&gt;this Vietnamese government site&lt;&#x2F;a&gt;.
+It takes a couple of working days and you will have to pay 25 dollars in advance.&lt;&#x2F;p&gt;
+&lt;p&gt;Don’t forget to double- or even triple-check all information on the application.
+The Vietnamese government doesn’t check the data you enter.
+If you swap your passport number with your national identification number as I did for example you’re visa will be refused at the check-in.
+Doing this will give you a couple of minutes, if you’re lucky, to hastily book a very expensive last-minute visa.
+This will create a lot of stress, not recommended.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s not necessary but also highly recommended to print the e-visa.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;embassy&quot;&gt;Embassy&lt;&#x2F;h4&gt;
+&lt;p&gt;Another, more expensive, option is to apply for a visa at the Vietnamese embassy. In the Netherlands it’s located in Den Haag and in Belgium in Brussels. This costs 77 dollars and you have to physically go there.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;third-party-service&quot;&gt;Third-Party Service&lt;&#x2F;h4&gt;
+&lt;p&gt;Another, also more expensive, option is to use a third-party service to get your visa. In the Netherlands the ANWB can be used for example.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;plane&quot;&gt;Plane&lt;&#x2F;h3&gt;
+&lt;p&gt;We recommend booking the plane 6 months in advance to get a good deal.&lt;&#x2F;p&gt;
+&lt;p&gt;You can fly from Amsterdam to Ho Chi Minh city with a transit flight, or drive to Frankfurt and take a direct flight.&lt;&#x2F;p&gt;
+&lt;p&gt;The airline we recommend are “Vietnam Airlines”, since they have big planes with a bit more leg space.
+The airlines you should avoid are “Swiss Airlines” and “Edelweiss” because the planes are small and there’s little room for your body parts. If you have Ha’s size (unlikely) it doesn’t matter which line you book.&lt;&#x2F;p&gt;
+&lt;p&gt;Websites to compare and book tickets:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ha-thomas-y.eu&#x2F;transportation&#x2F;momondo.nl&quot;&gt;https:&#x2F;&#x2F;www.momondo.nl&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;airport-in-vietnam&quot;&gt;Airport in Vietnam&lt;&#x2F;h3&gt;
+&lt;p&gt;It’s highly recommended to bring at least 25 dollars or equivalent in Vietnamese Dong to the Vietnamese airport, just in case.
+Something might go “wrong” and you might have to “pay” an official.
+It’s not possible to use an ATM there and they don’t accept euros.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🌏 Where To Next</title>
+		<published>2021-02-10T00:00:00+00:00</published>
+		<updated>2021-02-10T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/where-next/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/where-next/</id>
+		<content type="html">&lt;p&gt;Of course you want to see other things after (or before) the wedding. It would be a shame to spend all this time in the airplane just for a single weekend. What follows are some places that we recommend visiting. &lt;&#x2F;p&gt;
+&lt;p&gt;Vietnam is indeed a long country with diverse types of nature. Before diving into the details, it’s probably nice to first get to know the country as a whole. Bellows is the picture of different regions in Vietnam.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;vietnam.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Central Coast and the two islands near Mekong River Delta area have the best beaches ever. If you are in love with the beaches in Croatia, we would say that the beaches here will blow your mind even more. You can find also plenty of astonishing caves (e.g, Sơn Đoòng, Phong Nha, Tú Làn)  up north of the Central Coast. &lt;&#x2F;p&gt;
+&lt;p&gt;As shown in the green color, Northern area and Central Highlands are places where you can find fresh air up high, mountains, and those stunning terraced rice fields.&lt;&#x2F;p&gt;
+&lt;p&gt;Mekong River Delta area is best known for its floating market on the Mekong river and the plenty mangrove forests.&lt;&#x2F;p&gt;
+&lt;p&gt;Ho Chi Minh city (Sài Gòn) is of course the heart of the Southern area. Unfortunately, the nature here is not so special. But, guess what? We have food! Moreover, affordable luxuries. Let’s think about an “expensive” massage at a high-end spa, a fancy cocktail on a rooftop bar with a view which is comparable with the Shard in London, or whatever you never dare to spend the money on that you can name.&lt;&#x2F;p&gt;
+&lt;p&gt;So, here is the detailed list of places we recommend you visit according to our taste, experiences, and researches. We made it in four main categories [Beaches &amp;amp; Islands, Mountains &amp;amp; Caves, Mekong area, and Main Cities &amp;amp; More] so it is easier for you to go through the list.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;beaches-islands&quot;&gt;Beaches &amp;amp; Islands&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;phu-quoc-nam-du-island&quot;&gt;Phú Quốc&#x2F; Nam Du Island&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;phu-quoc.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Phú Quốc and Nam Du are close to each other so you can choose either one. &lt;&#x2F;p&gt;
+&lt;p&gt;Phú Quốc is definitely more famous and has more facilities for tourist activities. There are two giant outdoor waterparks and also cable car service. It was the place where the prisoners during Vietnam war were kept. If you are more into the history part, this is the choice.&lt;&#x2F;p&gt;
+&lt;p&gt;On Nam Du island, you can rent locals’ houses or tents for overnight stays. Nam Du has a great nature (natural rocks, coral reefs, etc.) but there are not as many tourist activities as in Phú Quốc. In return, you can enjoy your peaceful time there.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: About 400km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;From Saigon, you have to take the bus to Kiên Giang at Bến xe miền Tây (roughly translated Buses to the West station). After arriving Kiên Giang, you take the high speed boat to Phú Quốc&#x2F; Nam Du island.&lt;&#x2F;p&gt;
+&lt;p&gt;There are two other routes to get to Phú Quốc. &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;By bus: Sài Gòn - Hà Tiên - Phú Quốc. Same as above.&lt;&#x2F;li&gt;
+&lt;li&gt;By plane: There are direct flights from Sài Gòn to Phú Quốc Airport.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;nha-trang-doc-let-diep-son-island&quot;&gt;Nha Trang&#x2F; Dốc Lết&#x2F; Điệp Sơn Island&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;diep-son.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Nha Trang is EXTREMELY beautiful and popular beach in Vietnam. It is nowadays fully packed with a lot of Russian and Chinese tourists. If you want to avoid this touristic chaos, we recommend Dốc Lết as an perfect alternative. I went there only once on a school trip and can never ever forget its beauty. While writing this post, I believe that this gem still has not been discovered by most of tourists. The evidence is that I could barely find an okay picture anywhere to show you how amazing it is. Điệp Sơn island is near by and you can have a one-day trip there. Thus, check it out!&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 481km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there-1&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;The best way to directly to Dốc Lết is getting on a sleeping train to Ninh Hòa and then get a taxi or scooter taxi to the beach.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;ha-long-lan-ha-bay&quot;&gt;Hạ Long&#x2F; Lan Hạ Bay&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;ha-long.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wikitravel.org&#x2F;en&#x2F;Ha_Long_Bay&quot;&gt;Hạ Long Bay&lt;&#x2F;a&gt; is a scenic ocean bay often included in lists of natural wonders of the world.
+Meanwhile, Lan Hạ has pretty much the same nature but a lot less touristic. Its location is on the Eastern side of Cát Bà island and on the Southern side of Hạ Long bay.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 1800 km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there-2&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;We assume that you will slowly visit the whole country before landing on these islands. So, there are two ways to come to Hạ Long&#x2F; Lan Hạ from Hà Nội: by bus and by train.&lt;&#x2F;p&gt;
+&lt;p&gt;In case you feel like skipping other places and want to head directly to Hạ Long from Sài Gòn, you can take a flight.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mountains-caves&quot;&gt;Mountains &amp;amp; Caves&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;da-lat&quot;&gt;Đà Lạt&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;da-lat.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wikitravel.org&#x2F;en&#x2F;Dalat&quot;&gt;Đà Lạt&lt;&#x2F;a&gt; is a beautiful city in the mountains built by the French colonizers to escape the heat of Saigon. You have to try “Bánh Căn” once you get here. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;banhcan.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Other than that, every street food you can find at the Đà Lạt night market is recommeded. And, if you have the mood for some “Alney s be your telf” t-shirt like Thomas did, this is the place to find it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;alneys.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 250 km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there-3&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;We recommend taking the sleeping bus, which takes around 6 hours to get there. If you don’t opt for the cheapest ones the bus can be quite comfortable. It’s recommended to ask how big the beds are, especially for tall people.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;sa-pa-y-ty&quot;&gt;Sa Pa&#x2F; Y Tý&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;sapa.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Terraced rice fields are the symbol of the Northern area in Vietnam. You can find them at many places. The most famous spot for tourists is definitely Sa Pa. You can do your own reaserch about this town &lt;a href=&quot;https:&#x2F;&#x2F;wikitravel.org&#x2F;en&#x2F;Sapa&quot;&gt;here&lt;&#x2F;a&gt; for more information. Mind you, the weather in the North of Vietnam is pretty cold during January. The rice fields are mostly dead at this time. The nature is of course still stunning but it might not be the same as what you have in your mind about terraced rice fields.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;yty.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Close to Sa Pa is Y Tý, another hidden gem from Vietnam. Y Tý is the home of four ethnic groups of Vietnam (Mông, Hà Nhì, Dao, and Kinh). 77,5% of the residents living here are listed as “poor”. It means that you might lack a lot of modern-life conveniences during your stay, such as electricity, mobilephone network, or internet, etc. But, in return, you can for sure enjoy your “silent” time here. &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 2000km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there-4&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;You can take train or bus from Hà Nội to Lào Cai. From Lào Cai you can take another bus to Sa Pa. There are also direct buses from Hà Nội to Sa Pa which would take about 6 or 7 hours. &lt;&#x2F;p&gt;
+&lt;p&gt;From Sa Pa, you can rent a scooter or go with the bus to Y Tý.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mekong-delta-area&quot;&gt;Mekong Delta Area&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;ca-mau&quot;&gt;Cà Mau&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;camau.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You should definitely not skip the floating market on the Mekong river if you come visiting Cà Mau. There are other famous floating markets (Cái Bè&#x2F; Cái Răng) in Cần Thơ. However, we do think that it would save you a lot of traveling time if you go to the floating market and the  mangrove forest in the same city.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;main-cities-more&quot;&gt;Main Cities &amp;amp; More&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;sai-gon-ha-noi&quot;&gt;Sài Gòn&#x2F; Hà Nội&lt;&#x2F;h3&gt;
+&lt;p&gt;Big cities are just big cities. You won’t find any interesting nature here but in return, as we mentioned above, you can find several affordable luxuries in Sài Gòn and&#x2F;or Hà Nộ since they are the two largest cities in Vietnam. Besides, food is what you have to try when visit these cities. Here is the list what Hà thinks that you should definitely try at least once:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cơm tấm&lt;&#x2F;li&gt;
+&lt;li&gt;Bánh tráng trộn&#x2F; bánh tráng cuốn&lt;&#x2F;li&gt;
+&lt;li&gt;Bánh xèo&lt;&#x2F;li&gt;
+&lt;li&gt;Bún măng vịt&lt;&#x2F;li&gt;
+&lt;li&gt;Bột chiên&lt;&#x2F;li&gt;
+&lt;li&gt;Bánh cuốn SG&lt;&#x2F;li&gt;
+&lt;li&gt;Bánh canh&lt;&#x2F;li&gt;
+&lt;li&gt;Hủ tíu khô &lt;&#x2F;li&gt;
+&lt;li&gt;Phở cuốn&lt;&#x2F;li&gt;
+&lt;li&gt;Xôi&lt;&#x2F;li&gt;
+&lt;li&gt;Bún ngan&lt;&#x2F;li&gt;
+&lt;li&gt;Bún ốc&lt;&#x2F;li&gt;
+&lt;li&gt;Cháo trai&#x2F; cháo sườn&lt;&#x2F;li&gt;
+&lt;li&gt;Bánh cuốn HN&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;hue-da-nang-hoi-an&quot;&gt;Huế&#x2F; Đà Nẵng&#x2F; Hội An&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;cauvang.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;According to Wikipedia, Bà Nà Hills, located in Đà Nẵng, is advertised as “the Đà Lạt of Đà Nẵng province”. Of course, it was founded by the French colonists to be a leisure destination for (French) tourists. If it is the Đà Lạt, what is the reasons to visit, you wondered. Yes yes, here you have beaches and BRIDGES. We don’t really understand why people go crazy for bridges so much. But, since the bridges here got recommended in several travel articles, we have to introduce them to you.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 960km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;hoian.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;And, because you are already in Đà Nẵng, it’s a pity if you don’t visit Hội An. As it stated &lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;H%E1%BB%99i_An&quot;&gt;here&lt;&#x2F;a&gt;, Hội An is an exceptionally well-preserved example of a Southeast Asian trading port from 15th to 19th century. Every lunar month (yup, not western calendar), on the 14th, the lantern festival will take place in this town.&lt;&#x2F;p&gt;
+&lt;p&gt;-Distance: 937km away from Sài Gòn &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;hue.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Huế used to be the capital of the country. During the French Indochina, it was the administrative capital of the protectorate of Annam. If you are into good food and history, this is the place where you should visit.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 1043km away from Sài Gòn&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h6 id=&quot;getting-there-5&quot;&gt;Getting There&lt;&#x2F;h6&gt;
+&lt;p&gt;We recommend you to take the train to Đà Nẵng, stay there overnight, rent a scooter or take a cab to Hội An, chill a bit, and go back to Đà Nẵng at the end of the day, and then take the train to Huế. If you have tight schedule, take the flight directly to Đà Nẵng. There is also an international airport in Đà Nẵng. You can also fly to&#x2F;from Đà Nẵng to&#x2F;from Amsterdam.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;phnom-penh-cambodia&quot;&gt;Phnom Penh, Cambodia&lt;&#x2F;h3&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;phnom-penh.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wikitravel.org&#x2F;en&#x2F;Phnom_Penh&quot;&gt;Phnom Penh&lt;&#x2F;a&gt; is the capital and largest city of Cambodia. Phnom Penh is really close to Saigon. It’s a good option if you want to make a tour around the Southern area Vietnam and other Southeast Asian countries.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distance: 250 km away from Saigon.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We believe that this list gives enough information and inspiration for you to plan the trip to Vietnam. If you have any questions, ask Google! ^_^&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>💁‍♀️ Tips</title>
+		<published>2021-01-25T00:00:00+00:00</published>
+		<updated>2021-01-25T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/tips/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/tips/</id>
+		<content type="html">&lt;h2 id=&quot;phone&quot;&gt;Phone&lt;&#x2F;h2&gt;
+&lt;p&gt;The first thing you should do when you arrive in Vietnam is get a prepaid SIM card with 3G or 4G and some data.
+These are quite cheap and can be bought at many places.
+Be very careful with your phone in public places, Ho Chi Minh city is a city with 22 million (yes million) in the metropolitan area, so you can image there are some pickpockets as well.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;animals&quot;&gt;Animals&lt;&#x2F;h2&gt;
+&lt;p&gt;Don’t touch any animals, even if they look cute.
+If you get bitten by one immediately go to a doctor to get a rabies shot.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;crossing-streets&quot;&gt;Crossing Streets&lt;&#x2F;h2&gt;
+&lt;p&gt;Crossing a street may sound like a trivial task, and in most countries that’s the case.
+In Saigon it’s different though, there rarely are traffic lights and people don’t stop for zebra crossings.
+Here are some tips for crossing busy streets:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Walk very slow but steadily&lt;&#x2F;li&gt;
+&lt;li&gt;Don’t make any sudden movements&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;div &gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;wqPSsu7XQ74&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+&lt;h2 id=&quot;scooters&quot;&gt;Scooters&lt;&#x2F;h2&gt;
+&lt;p&gt;When you are adventurous enough to drive a scooter in Vietnam, especially in Ho Chi Minh city, it’s recommended to practice a bit with the traffic before throwing yourself in.
+Some things you can expect while driving are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ghost drivers are very common, especially right next to the sidewalk&lt;&#x2F;li&gt;
+&lt;li&gt;Traffic lights are not common&lt;&#x2F;li&gt;
+&lt;li&gt;Potholes pop up every couple of meters&lt;&#x2F;li&gt;
+&lt;li&gt;People grabbing phones from your hands while driving, never hold your phone in sight, even on the back of a scooter&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;When you drive you have to think about yourself in the traffic more like a fish in a school of fish than an autonomous driver following the rules.&lt;&#x2F;p&gt;
+&lt;p&gt;Also never drive without a helmet, it’s very unsafe and there’s a very fine for that.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>🏩 Accomodation</title>
+		<published>2021-01-23T00:00:00+00:00</published>
+		<updated>2021-01-23T00:00:00+00:00</updated>
+		<link href="https://ha-thomas-y.eu/accomodation/" type="text/html"/>
+		<id>https://ha-thomas-y.eu/accomodation/</id>
+		<content type="html">&lt;p&gt;We will arrange a hotel deal for the guests for the wedding. This is not mandatory so if you want to find your own place that’s also okay.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want this please supply us with the follownig information:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is your budget per day?&lt;&#x2F;li&gt;
+&lt;li&gt;How many days do you want to stay in Ho Chi Minh city?&lt;&#x2F;li&gt;
+&lt;li&gt;What is the minimum level of luxury you’re okay with?&lt;&#x2F;li&gt;
+&lt;li&gt;With how many people will you share a room?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;We do recommend staying in this hotel though, or somewhere close, since it will be easier for us to organize things with the whole group.
+At least for the wedding days.&lt;&#x2F;p&gt;
+&lt;p&gt;We are still looking for the hotel, we will update this page when we find one meeting all our requirements.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

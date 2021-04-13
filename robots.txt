@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ha-thomas-y.eu/sitemap.xml
