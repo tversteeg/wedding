@@ -1,6 +1,6 @@
 +++
 title = "😷 Corona"
-date = 2021-04-13
+date = 2022-04-09
 
 [taxonomies]
 tags = ["schedule"]
@@ -16,3 +16,7 @@ Our advice is to book everything with the option to refund.
 ## Update
 
 There's rumours going around that Vietnam will soon open it's borders for tourists with a vaccin passport. Seeing how the Dutch government aims to vaccinate everyone by july it will be odd if we people won't be able to fly to Vietnam for our wedding in januari.
+
+## Update 2
+
+Vietnam has opened it's borders for tourists. There's more updates and information on the [Vietnamese embassy facebook](https://m.facebook.com/VNembassyinNetherlands).

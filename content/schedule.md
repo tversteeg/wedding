@@ -1,12 +1,14 @@
 +++
 title = "📅 Schedule"
-date = 2021-02-10
+date = 2022-04-09
 
 [taxonomies]
 tags = ["schedule"]
 +++
 
-## 16 January
+# Wedding
+
+## 8 January
 
 #### Traditional Vietnamese Ceremony
 
@@ -28,7 +30,9 @@ We will hold a reception in the afternoon. The whole ceremony will occur from pr
 
 Yes yes, it's the time for everyone to get drunk (except the bride). Which type of bar are you into? A chill bar with slow music to talk? A rooftop bar with EDM music? Send us your preference along with your RSVP. 
 
-## 17 January
+# Tour (optional)
+
+## 9 January
 
 #### Streetfood Tour
 
@@ -36,10 +40,16 @@ Yes yes, it's the time for everyone to get drunk (except the bride). Which type 
 
 Say what now? A food tour right after the "going wild" night? Nja, you are on vacation! No work is going to stop you!
 
-## 18 January
+# Travel (Optional)
 
-#### Saigon Scary Scooter Tour
+## 10-13 January
 
-![](/scaryscooter.jpg)
+#### Holiday
 
-TBD.
+We are you going to have a little holiday to recover from all the energy we put in planning the wedding. It would be great if you would join us, PLEASE let us know if you want to!
+
+#### Đà Lạt 
+
+## 13-19 January
+
+#### Đà Nẵng
