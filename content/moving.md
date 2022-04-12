@@ -1,5 +1,5 @@
 +++
-title = "🐈 Moving the wedding to 2023"
+title = "🐈 Rescheduling To 2023"
 date = 2021-10-28
 
 [taxonomies]
