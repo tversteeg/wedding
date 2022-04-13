@@ -1,0 +1,6 @@
+{% if vnd %}
+<abbr title="{{vnd / 24810 | round}},- €">{{vnd / 1000 | round}}k ₫</abbr>
+{% endif %}
+{% if usd %}
+<abbr title="{{usd / 1.09 | round}},- €">{{usd * 22.856 | round}}k ₫</abbr>
+{% endif %}

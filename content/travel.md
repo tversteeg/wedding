@@ -1,6 +1,6 @@
 +++
 title = "🇻🇳 Extra Travel"
-date = 2022-04-12
+date = 2022-04-13
 
 [taxonomies]
 tags = ["schedule"]
@@ -20,15 +20,15 @@ There's two recommended ways to go to Đà Lạt from Saigon, by bus and by plan
 
 ##### Bus
 
-The upgraded sleeper bus from Saigon to Đà Lạt takes about 7 hours and costs around 15 USD. The bus can be taken at night so it also saves the cost of a hotel for one day.
+The upgraded sleeper bus from Saigon to Đà Lạt takes about 7 hours and costs around {{ vnd(vnd=350000) }}. The bus can be taken at night so it also saves the cost of a hotel for one day.
 
 ##### Plane
 
-Going by plane costs around 40 USD and the flying time is about 1h.
+Going by plane costs around {{ vnd(vnd=950000) }} and the flying time is about 1h.
 
 #### Hotel
 
-The hotel will probably cost around 30 USD per night.
+The hotel will probably cost around {{ vnd(vnd=750000) }} per night.
 
 #### What we'll visit
 
@@ -49,15 +49,15 @@ There's two recommended ways to go to Đà Nẵng from Đà Lạt, by bus+train 
 
 ##### Bus + Train
 
-The bus from Đà Lạt to Nha Trang takes about 3-4 hours and costs around 6 USD. After that the train takes around 10 hours and costs about 20 USD. The best option for the train is the one that leaves around 12 at night and arrives at 10 AM. This way you can have sleep the required 8 hours and it will also save the costs of a hotel for one evening.
+The bus from Đà Lạt to Nha Trang takes about 3-4 hours and costs around {{ vnd(vnd=150000) }}. After that the train takes around 10 hours and costs about {{ vnd(vnd=450000) }}. The best option for the train is the one that leaves around 12 at night and arrives at 10 AM. This way you can have sleep the required 8 hours and it will also save the costs of a hotel for one evening.
 
 ##### Plane
 
-Going by plane costs around 75 USD and the flying time is about 1h 10 min.
+Going by plane costs around {{ vnd(vnd=1750000) }} and the flying time is about 1h 10 min.
 
 #### Hotel
 
-The hotel will probably cost around 30 USD per night.
+The hotel will probably cost around {{ vnd(vnd=700000) }} per night.
 
 #### Things we'll visit
 
@@ -84,8 +84,8 @@ The following prices are just the prices for the transportation between the citi
 
 #### Hotel + Bus + Train
 
-The total price for this will be around 250 USD.
+The total price for this will be around {{ vnd(vnd=6000000) }}.
 
 #### Hotel + Plane
 
-The total price for this will be around 400 USD.
+The total price for this will be around {{ vnd(vnd=10000000) }}.
