@@ -4,3 +4,25 @@
 {% if usd %}
 <abbr title="{{usd / 1.09 | round}},- €">{{usd * 22.856 | round}}k ₫</abbr>
 {% endif %}
+
+{% if nth == 1 %}
+<style>
+abbr[title]:after
+{
+   content: " (" attr(title) ")";
+}
+
+@media screen and (min-width: 1025px)
+{
+   abbr[title]
+   {
+      cursor:help;
+   }
+
+   abbr[title]:after
+   {
+      content: "";
+   }
+}
+</style>
+{% endif %}
