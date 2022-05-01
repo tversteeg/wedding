@@ -3,7 +3,7 @@ title = "🇻🇳 Extra Travel"
 date = 2022-04-14
 
 [taxonomies]
-tags = ["schedule"]
+tags = ["travel", "schedule"]
 +++
 
 We would like to organize an extra small holiday for the people who are interested in it. It will be travelling to two amazing locations in Vietnam with a big group. If you would like to travel independently we understand that but please don't come to Vietnam just for our wedding, that won't be worth the long distance trip.
