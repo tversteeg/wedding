@@ -152,6 +152,7 @@ zulma_theme = "lux"
 zulma_menu = [
     {url = "$BASE_URL/contact", name = "Contact"},
     {url = "$BASE_URL/schedule", name = "Schedule"},
+    {url = "$BASE_URL/checklist", name = "Checklist"},
     {url = "$BASE_URL/tags", name = "Tags"},
 ]
 
