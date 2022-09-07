@@ -1,6 +1,6 @@
 +++
 title = "🏩 Accomodation"
-date = 2021-01-23
+date = 2022-07-09
 
 [taxonomies]
 tags = ["accomodation", "hotel", "schedule"]
@@ -18,3 +18,7 @@ We do recommend staying in this hotel though, or somewhere close, since it will 
 At least for the wedding days.
 
 We are still looking for the hotel, we will update this page when we find one meeting all our requirements.
+
+If you want to find your own hotel we recommend finding one near the location on the map:
+
+<iframe width="100%" height="500" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox=106.61738455295564%2C10.786633829484384%2C106.61924600601198%2C10.788507178461499&amp;layer=mapnik&amp;marker=10.787570505431754%2C106.6183152794838" style="border: 1px solid black"></iframe>

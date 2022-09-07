@@ -1,6 +1,6 @@
 +++
 title = "🇻🇳 Extra Travel"
-date = 2022-05-07
+date = 2022-07-09
 
 [taxonomies]
 tags = ["travel", "schedule"]
@@ -24,6 +24,7 @@ The upgraded sleeper bus from Saigon to Đà Lạt takes about 7 hours and costs
 
 #### Hotel
 
+We are staying in [Hotel TTC](https://www.booking.com/Share-paikhPV).
 The hotel will probably cost around {{ vnd(vnd=750000) }} per night.
 
 #### What we'll visit
