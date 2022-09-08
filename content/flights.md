@@ -1,6 +1,6 @@
 +++
 title = "💺 Booked Flights"
-date = 2022-07-09
+date = 2022-07-10
 
 [taxonomies]
 tags = ["flight", "schedule"]
@@ -15,7 +15,7 @@ Flights that have already been booked:
 | 2 | Schiphol (AMS) | 29 November 18:10 | Saigon (SGN) | 30 November 16:15  | Economy | Turkish Airlines | TK1954 & TK162 |
 | 2 | Schiphol (AMS) | 4 January 11:00 | Saigon (SGN) | 5 January 16:50  | Economy | China Airlines | CI74 & CI783 |
 | 1 | Schiphol (AMS) | 4 January 22:00 | Saigon (SGN) | 5 January 19:35  | Economy | Emirates | EK150 & EK392 |
-| 3 | Schiphol (AMS) | 5 January 18:10 | Saigon (SGN) | 6 January 16:15  | Business | Turkish Airlines | TK1954 & TK162 |
+| 3 | Schiphol (AMS) | 5 January 18:35 | Saigon (SGN) | 6 January 16:15  | Business | Turkish Airlines | TK1954 & TK162 |
 
 ## Back home
 
