@@ -102,7 +102,10 @@ It's time for adventure!
 
 #### Train
 
-Another sleeping train, this time back to Saigon. The train will take about 16 hours so we need to be prepared with plenty of food.
+This is an optional train you can take if you decide to go back to Saigon.
+Thomas and Ha will take this, so if you want to join us let us know!
+
+The train will take about 16 hours so we need to be prepared with plenty of food.
 
 # Option #3: Hoi An
 
