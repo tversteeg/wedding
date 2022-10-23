@@ -1,24 +1,54 @@
 +++
 title = "🏩 Accomodation"
-date = 2022-07-09
+date = 2022-10-23
 
 [taxonomies]
 tags = ["accomodation", "hotel", "schedule"]
 +++
 
-We will arrange a hotel deal for the guests for the wedding. This is not mandatory so if you want to find your own place that's also okay.
+# Saigon
 
-If you want this please supply us with the follownig information:
-- What is your budget per day?
-- How many days do you want to stay in Ho Chi Minh city?
-- What is the minimum level of luxury you're okay with?
-- With how many people will you share a room?
+## Royal Dragon Boutique
 
-We do recommend staying in this hotel though, or somewhere close, since it will be easier for us to organize things with the whole group.
-At least for the wedding days.
+For the stay around the wedding in Saigon we booked the [Royal Dragon Boutique](http://royal-dragon.hotelshochiminhcity.net/en/).
 
-We are still looking for the hotel, we will update this page when we find one meeting all our requirements.
+You'll have to book your own stay after the travel itinerary.
 
-If you want to find your own hotel we recommend finding one near the location on the map:
+#### Dates
 
-<iframe width="100%" height="500" frameborder="0" scrolling="no" src="https://www.openstreetmap.org/export/embed.html?bbox=106.61738455295564%2C10.786633829484384%2C106.61924600601198%2C10.788507178461499&amp;layer=mapnik&amp;marker=10.787570505431754%2C106.6183152794838" style="border: 1px solid black"></iframe>
+| # | Room | From-To |
+| -- | -- | -- |
+| 2 | You.. & Rag.. | 7-10 |
+| 2 | Tij.. & Mir.. | 7-10 |
+| 1 | Jel.. | 8-10 |
+| 2 | Nie.. & Iri.. | 5-10 |
+| 2 | Mau.. & Ren.. | 5-10 |
+| 1 | Adr.. | 6-10 & 20-21 |
+| 2 | Daa.. & Ira.. | 8-10 |
+| 1 | Fra.. | 6-10 & 20-25 |
+| 1 | Ric.. | 6-10 & 20-26 |
+| 1 | Car.. & Dia.. | 6-10 |
+| 2 | Sar.. & Jel.. | 6-10 & 23-26 |
+| 2 | Jos.. & Lie.. | 6-10 |
+| 2 | Joo.. & Ali.. | 6-10 |
+| 1 | Ang.. | 6-10 |
+
+# Da Lat
+
+## Option #1: Golf Valley
+
+For the people wanting a bit more luxury in Da Lat we booked the [Golf Valley Hotel](https://www.golfvalleyhotel.com/).
+
+## Option #2: Khanh Uyen 3
+
+For the people who don't care about luxury in Da Lat we booked [Khanh Uyen 3](https://www.booking.com/hotel/vn/khanh-uyen-3.html).
+
+#### Dates
+
+| # | Room |
+| -- | -- |
+| 1 | Jel.. |
+| 2 | Mau.. & Ren.. |
+| 1 | Adr.. |
+| 2 | Daa.. & Ira.. |
+| 2 | Thomas & Ha |
