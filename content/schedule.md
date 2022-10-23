@@ -66,7 +66,7 @@ These days are still a surprise, but we'll be having great food and see some ama
 
 #### The great split
 
-This is the part where most people will be going their separate ways. What follows are the routes people will take:
+This is the part where most people will be going their separate ways, unless you're going to Da Nang with us this also the part where you'll have to start booking your own itinerary. What follows are the routes people will take:
 
 # Option #1: Back home
 
@@ -98,7 +98,7 @@ After a relaxed day and a full stomach we'll be taking the sleeping train to wak
 
 It's time for adventure!
 
-## 19 January
+## 19-20 January
 
 #### Train
 
