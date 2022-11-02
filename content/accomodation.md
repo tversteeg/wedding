@@ -1,6 +1,6 @@
 +++
 title = "🏩 Accomodation"
-date = 2022-10-23
+date = 2022-11-02
 
 [taxonomies]
 tags = ["accomodation", "hotel", "schedule"]
@@ -24,10 +24,10 @@ You'll have to book your own stay after the travel itinerary.
 | 2 | Nie.. & Iri.. | 5-10 |
 | 2 | Mau.. & Ren.. | 5-10 |
 | 1 | Adr.. | 6-10 & 20-21 |
-| 2 | Daa.. & Ira.. | 8-10 |
-| 1 | Fra.. | 6-10 & 20-25 |
+| 2 | Daa.. & Ira.. | 7-10 |
+| 1 | Pap.. | 6-10 & 20-25 |
 | 1 | Ric.. | 6-10 & 20-26 |
-| 1 | Car.. & Dia.. | 6-10 |
+| 1 | Mam.. & Dia.. | 6-10 |
 | 2 | Sar.. & Jel.. | 6-10 & 23-26 |
 | 2 | Jos.. & Lie.. | 6-10 |
 | 2 | Joo.. & Ali.. | 6-10 |
@@ -39,11 +39,19 @@ You'll have to book your own stay after the travel itinerary.
 
 For the people wanting a bit more luxury in Da Lat we booked the [Golf Valley Hotel](https://www.golfvalleyhotel.com/).
 
+| # | Room |
+| -- | -- |
+| 2 | You.. & Rag.. |
+| 1 | Fra.. |
+| 1 | Car.. & Dia.. |
+| 2 | Sar.. & Jel.. |
+| 2 | Jos.. & Lie.. |
+| 2 | Joo.. & Ali.. |
+| 1 | Ang.. |
+
 ## Option #2: Khanh Uyen 3
 
 For the people who don't care about luxury in Da Lat we booked [Khanh Uyen 3](https://www.booking.com/hotel/vn/khanh-uyen-3.html).
-
-#### Dates
 
 | # | Room |
 | -- | -- |
@@ -51,4 +59,6 @@ For the people who don't care about luxury in Da Lat we booked [Khanh Uyen 3](ht
 | 2 | Mau.. & Ren.. |
 | 1 | Adr.. |
 | 2 | Daa.. & Ira.. |
+| 1 | Ric.. |
+| 2 | Nie.. & Iri.. |
 | 2 | Thomas & Ha |
