@@ -1,6 +1,6 @@
 +++
 title = "☑️ Checklist"
-date = 2022-11-08
+date = 2022-11-19
 
 [taxonomies]
 tags = ["tips"]
@@ -8,11 +8,12 @@ tags = ["tips"]
 
 ### ASAP
 
-1. [ ] Get a passport if you don't have one and ensure that it doesn't expire if you do.
+1. [x] Get a passport if you don't have one and ensure that it doesn't expire if you do.
+1. [x] Arrange your [visa](../visa).
 1. [ ] Tell us your allergies if you have any.
-1. [ ] Arrange your [visa](../visa).
-1. [ ] Send us your sizes if you'll wear an Ao Dai.
+1. [ ] [Send us your sizes](../tea-ceremony) if you'll wear an Ao Dai.
 1. [ ] Change your bank debit card to international at your bank.
+1. [ ] Get an [international drivers license](https://www.anwb.nl/auto/rijbewijs/het-rijbewijs/internationaal-rijbewijs).
 
 ### When leaving
 
