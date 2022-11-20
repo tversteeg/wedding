@@ -1,6 +1,6 @@
 +++
 title = "👘 Tea Ceremony Dress"
-date = 2022-11-19
+date = 2022-11-20
 
 [taxonomies]
 tags = ["wedding"]

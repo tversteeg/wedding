@@ -1,6 +1,6 @@
 +++
 title = "📅 Schedule"
-date = 2022-10-23
+date = 2022-11-20
 
 [taxonomies]
 tags = ["schedule"]
@@ -78,7 +78,7 @@ A couple of people will be going back home by airplane with a stop in Saigon.
 
 #### Bus
 
-First we'll be taking the bus to Nha Trang at 9am. This will take 4 hours.
+First we'll be taking the bus to Nha Trang at 9:00. This will take 4 hours. We'll arrive around 13:00.
 
 #### Nha Trang
 
@@ -89,6 +89,8 @@ In Nha Trang we can hang out a bit on the beach, eat some nice food and relax.
 #### Train
 
 After a relaxed day and a full stomach we'll be taking the sleeping train to wake up in Da Nang. The train will take about 10 hours.
+
+We'll take train SE22, which leaves at 19:48 and arrives at 6:30 in the morning in Da Nang.
 
 ## 14-19 January
 

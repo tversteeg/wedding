@@ -1,6 +1,6 @@
 +++
 title = "☑️ Checklist"
-date = 2022-11-19
+date = 2022-11-20
 
 [taxonomies]
 tags = ["tips"]
@@ -19,3 +19,10 @@ tags = ["tips"]
 
 1. [ ] Get around $100 dollars.
 1. [ ] Print your e-visa.
+1. [ ] Don't forget your passport.
+
+### Smart to bring
+
+1. [ ] Mosquito repellant.
+1. [ ] Not too many warm clothes.
+1. [ ] Ear plugs.
