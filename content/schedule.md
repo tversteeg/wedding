@@ -1,6 +1,6 @@
 +++
 title = "📅 Schedule"
-date = 2022-11-20
+date = 2022-11-27
 
 [taxonomies]
 tags = ["schedule"]
@@ -54,13 +54,35 @@ The bus will take around 7 hours, we'll be leaving in the morning so don't forge
 
 #### Evening
 
-After the long bus trip it would be nice to stretch our legs, this is a great time to visit Da Lat's famous evening market.
+After the long bus trip it would be nice to have some food and stretch our legs, this is a great time to visit Da Lat's famous evening market.
 
-## 11-12 January
+## 11 January
 
-#### Surprise
+#### Morning
 
-These days are still a surprise, but we'll be having great food and see some amazing sight. Don't plan anything!
+We start the day with a nice breakfast at the local market.
+
+#### Midday
+
+After breakfast we'll visit a [mushroom-themed village](https://langnamdalat.com), yes you heard that right.
+
+#### Evening
+
+We'll have dinner at a very nice [hot-pot restauraunt](https://www.facebook.com/buffetraudalatleguda/) with some amazing views.
+
+## 12 January
+
+#### Morning
+
+The second day is the day for some local [specialty breakfast](https://www.dalattrip.com/dalat-can-cake/). With full bellies we'll visit a [Buddhist temple](https://en.wikipedia.org/wiki/Linh_Phuoc_Pagoda) made from empty bottles.
+
+#### Midday
+
+The next event is a bit of a drive, so we'll bring some [nice lunch](https://www.happycow.net/reviews/banh-mi-chay-co-hoa-da-lat-197773). After eating a lot it's important to stay have enough fluids in your body for proper digestion, that's why the next event will be a [tea tour](https://caudatfarm.com/collections/tour-trai-nghiem).
+
+#### Evening
+
+The last evening where the big group will be together.
 
 ## 13 January
 
