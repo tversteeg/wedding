@@ -12,8 +12,9 @@ When we arrive in Vietnam we will put the phone number of our local SIM cards he
 
 ## Phone Numbers
 
-Thomas: [+84 76 723 1803](tel:+84767231803)
-Ha: [+84 707 814 753](tel:+84707814753)
+- Thomas: [+84 76 723 1803](tel:+84767231803)
+- Ha: [+84 707 814 753](tel:+84707814753)
+- Jelle: [+84 93 455 90 66](tel:+84934559066)
 
 ## Location
 
