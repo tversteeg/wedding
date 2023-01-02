@@ -10,6 +10,11 @@ For any questions please send us an email: [wedding@versteeg.email](mailto:weddi
 
 When we arrive in Vietnam we will put the phone number of our local SIM cards here. We recommend mailing us your Vietnamese phone number when you buy a SIM card in Vietnam (which you definitely should do) so we can also add it here so the other guests can contact you.
 
+## Phone Numbers
+
+Thomas: [+84 76 723 1803](+84767231803
+Ha: [+84 707 814 753](+84707814753)
+
 ## Location
 
 Location where Ha's parents live:
