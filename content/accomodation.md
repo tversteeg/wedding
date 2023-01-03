@@ -61,4 +61,5 @@ For the people who don't care about luxury in Da Lat we booked [Khanh Uyen 3](ht
 | 2 | Daa.. & Ira.. |
 | 1 | Ric.. |
 | 2 | Nie.. & Iri.. |
+| 2 | Tij.. & Mir.. |
 | 2 | Thomas & Ha |
